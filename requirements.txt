@@ -1,0 +1,146 @@
+absl-py==0.11.0
+alabaster==0.7.12
+argon2-cffi @ file:///D:/bld/argon2-cffi_1596629999983/work
+astroid @ file:///C:/ci/astroid_1592495992870/work
+astunparse==1.6.3
+atomicwrites==1.4.0
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1599308529326/work
+Babel==2.8.0
+backcall==0.2.0
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
+boto==2.49.0
+boto3==1.9.66
+botocore==1.12.67
+bz2file==0.98
+cached-property==1.5.2
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1598370861361/work
+chardet==3.0.4
+click==7.1.2
+colorama==0.4.3
+commonmark==0.9.1
+cryptography @ file:///C:/ci/cryptography_1598892109987/work
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+docutils==0.16
+entrypoints==0.3
+et-xmlfile==1.0.1
+funcy==1.14
+future==0.18.2
+gast==0.3.3
+gensim==3.8.0
+google-pasta==0.2.0
+guzzle-sphinx-theme==0.7.11
+h5py==3.1.0
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+imagesize==1.2.0
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211549301/work
+importlib-resources==3.3.0
+iniconfig==1.0.1
+ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593446240034/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort @ file:///C:/ci/isort_1597579650240/work
+jdcal==1.4.1
+jedi @ file:///C:/ci/jedi_1596472773465/work
+Jinja2==2.11.2
+jmespath @ file:///tmp/build/80754af9/jmespath_1594304593830/work
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1591810480056/work
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-console==6.2.0
+jupyter-core==4.6.3
+jupyterlab==2.2.6
+jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1593951277307/work
+Keras==2.4.3
+kiwisolver==1.2.0
+lab==6.0
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+matplotlib==3.3.1
+mccabe==0.6.1
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+more-itertools==8.5.0
+nbconvert==5.6.1
+nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+notebook @ file:///D:/bld/notebook_1597285499102/work
+numexpr==2.7.1
+numpy==1.18.5
+openpyxl==3.0.5
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas==1.1.1
+pandocfilters==1.4.2
+parso==0.7.0
+pickleshare==0.7.5
+Pillow==7.2.0
+playsound==1.2.2
+pluggy==0.13.1
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
+py==1.9.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.6.1
+pyLDAvis==2.1.2
+pylint @ file:///C:/ci/pylint_1598624066230/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+pyrsistent==0.16.0
+PySocks==1.7.1
+pytest==6.0.1
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+PyYAML==5.3.1
+pyzmq==19.0.1
+qtconsole==4.7.7
+QtPy==1.9.0
+recommonmark==0.6.0
+regex @ file:///C:/ci/regex_1596829824428/work
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+s3transfer==0.1.13
+scikit-learn==0.23.2
+scipy @ file:///C:/ci/scipy_1597675683670/work
+seaborn==0.11.0
+Send2Trash==1.5.0
+simplejson==3.17.2
+six==1.15.0
+sklearn==0.0
+smart-open==2.1.1
+snowballstemmer==2.0.0
+Sphinx @ file:///tmp/build/80754af9/sphinx_1597428793432/work
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
+squarify==0.4.3
+sweetviz==1.1.2
+tensorflow-estimator==2.3.0
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+tornado==6.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
+traitlets==4.3.3
+txt2tags==3.7
+typed-ast==1.4.1
+urllib3==1.24.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+wrapt==1.11.2
+xlrd==1.2.0
+zipp==3.1.0
